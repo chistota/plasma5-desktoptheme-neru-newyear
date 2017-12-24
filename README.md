@@ -6,6 +6,7 @@ plasma5-desktoptheme-neru-newyear
 ## Изображение (может немного отличатся от оригинала)
 
 ![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
 
 ## Особенности
 
